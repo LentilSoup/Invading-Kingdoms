@@ -1,0 +1,1296 @@
+﻿Log file open, 11/18/17 10:15:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Invading_Kingdoms
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1833176323) SRandInit(-1833176323).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.142194
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.18-10.15.43:573][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.18-10.15.43:573][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.18-10.15.43:579][  0]LogInit: Computer: DESKTOP-EJGDGA4
+[2017.11.18-10.15.43:579][  0]LogInit: User: linth
+[2017.11.18-10.15.43:579][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.18-10.15.43:580][  0]LogInit: High frequency timer resolution =4.195315 MHz
+[2017.11.18-10.15.43:580][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.11.18-10.15.43:580][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.18-10.15.43:580][  0]LogMemory: Process Physical Memory: 272.01 MB used, 272.01 MB peak
+[2017.11.18-10.15.43:580][  0]LogMemory: Process Virtual Memory: 270.18 MB used, 270.18 MB peak
+[2017.11.18-10.15.43:580][  0]LogMemory: Physical Memory: 5298.12 MB used,  11010.66 MB free, 16308.78 MB total
+[2017.11.18-10.15.43:580][  0]LogMemory: Virtual Memory: 644.13 MB used,  11010.66 MB free, 134217728.00 MB total
+[2017.11.18-10.15.43:647][  0]LogInit: Using OS detected language (en-GB).
+[2017.11.18-10.15.43:647][  0]LogInit: Using OS detected locale (en-GB).
+[2017.11.18-10.15.43:649][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.11.18-10.15.43:912][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.18-10.15.44:062][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.18-10.15.44:090][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.11.18-10.15.44:090][  0]LogD3D11RHI:       4058/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.11.18-10.15.44:090][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.18-10.15.44:090][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.18-10.15.44:090][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.18-10.15.44:092][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.18-10.15.44:092][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.18-10.15.44:092][  0]LogWindows: EnumDisplayDevices:
+[2017.11.18-10.15.44:093][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.11.18-10.15.44:093][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2017.11.18-10.15.44:093][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.11.18-10.15.44:093][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.11.18-10.15.44:093][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.18-10.15.44:093][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.11.18-10.15.44:093][  0]LogD3D11RHI:   Driver Version: 388.31 (internal:23.21.13.8831, unified:388.31)
+[2017.11.18-10.15.44:093][  0]LogD3D11RHI:      Driver Date: 11-14-2017
+[2017.11.18-10.15.44:093][  0]LogRHI: Texture pool is 2840 MB (70% of 4058 MB)
+[2017.11.18-10.15.44:106][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.18-10.15.44:196][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.18-10.15.44:244][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../Unreal Projects/Invading_Kingdoms/Intermediate/Shaders/WorkingDirectory/9020/).
+[2017.11.18-10.15.44:244][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/linth/AppData/Local/Temp/UnrealShaderWorkingDir/8D9373CE4C2E75AF7DC79B9530D2EA5D/'.
+[2017.11.18-10.15.44:244][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.18-10.15.45:027][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.18-10.15.45:052][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.18-10.15.45:077][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.18-10.15.45:102][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.18-10.15.45:127][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.18-10.15.45:153][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.18-10.15.45:178][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.18-10.15.45:203][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.18-10.15.45:223][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.18-10.15.45:248][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.18-10.15.45:272][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.18-10.15.45:297][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.18-10.15.45:368][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.18-10.15.45:395][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.18-10.15.45:481][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.18-10.15.45:481][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.18-10.15.45:513][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.18-10.15.45:535][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.18-10.15.45:600][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.18-10.15.45:616][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.18-10.15.45:643][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.18-10.15.45:673][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.18-10.15.45:706][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.18-10.15.45:732][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.18-10.15.45:732][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.18-10.15.45:950][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.18-10.15.45:989][  0]LogDerivedDataCache: Loaded boot cache 0.04s 69MB C:/Users/linth/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.18-10.15.45:989][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/linth/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.18-10.15.45:989][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Unreal Projects/Invading_Kingdoms/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.18-10.15.45:989][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.18-10.15.45:989][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Unreal Projects/Invading_Kingdoms/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.18-10.15.45:989][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.18-10.15.46:001][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.18-10.15.46:013][  0]LogDerivedDataCache: Using Local data cache path C:/Users/linth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.18-10.15.46:020][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.18-10.15.46:021][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.18-10.15.46:021][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.18-10.15.46:021][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.18-10.15.46:244][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.18-10.15.46:410][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.18-10.15.46:428][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.18-10.15.46:428][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.18-10.15.46:428][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.18-10.15.46:428][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.18-10.15.46:428][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.18-10.15.46:445][  0]LogNetVersion: Invading_Kingdoms , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1928817590)
+[2017.11.18-10.15.46:539][  0]LogAssetRegistry: FAssetRegistry took 0.0236 seconds to start up
+[2017.11.18-10.15.46:854][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.054720 seconds
+[2017.11.18-10.15.46:858][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.18-10.15.46:858][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.11.18-10.15.46:858][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.18-10.15.46:881][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.18-10.15.48:373][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.18-10.15.48:402][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.18-10.15.48:767][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.18-10.15.48:974][  0]SourceControl: Source control is disabled
+[2017.11.18-10.15.48:975][  0]SourceControl: Source control is disabled
+[2017.11.18-10.15.48:999][  0]SourceControl: Source control is disabled
+[2017.11.18-10.15.49:023][  0]SourceControl: Source control is disabled
+[2017.11.18-10.15.49:400][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.18-10.15.49:523][  0]LogOcInput: OculusInput pre-init called
+[2017.11.18-10.15.49:665][  0]LogEngine: Initializing Engine...
+[2017.11.18-10.15.49:666][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.18-10.15.49:803][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.18-10.15.49:803][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.18-10.15.49:860][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.18-10.15.49:867][  0]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.18-10.15.49:873][  0]LogInit: FAudioDevice initialized.
+[2017.11.18-10.15.49:936][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/linth/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.18-10.15.49:943][  0]LogInit: Texture streaming: Enabled
+[2017.11.18-10.15.49:986][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.18-10.15.50:045][  0]LogInit: Transaction tracking system initialized
+[2017.11.18-10.15.50:181][  0]BlueprintLog: New page: Editor Load
+[2017.11.18-10.15.50:597][  0]LocalizationService: Localization service is disabled
+[2017.11.18-10.15.50:936][  0]LogConsoleResponse: Display: 
+[2017.11.18-10.15.51:074][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Invading_Kingdoms/Content/' took 0.01s
+[2017.11.18-10.15.51:074][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.18-10.15.51:074][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.18-10.15.51:074][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.18-10.15.51:621][  0]SourceControl: Source control is disabled
+[2017.11.18-10.15.51:683][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/UE_4.18/FeaturePacks/StarterContent.upack)
+[2017.11.18-10.15.51:713][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.11.18-10.15.51:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2017.11.18-10.15.51:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2017.11.18-10.15.51:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2017.11.18-10.15.51:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2017.11.18-10.15.51:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2017.11.18-10.15.51:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2017.11.18-10.15.51:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2017.11.18-10.15.51:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.11.18-10.15.51:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.11.18-10.15.51:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.11.18-10.15.51:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.11.18-10.15.51:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Collapse01.uasset"
+[2017.11.18-10.15.51:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Collapse02.uasset"
+[2017.11.18-10.15.51:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2017.11.18-10.15.51:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Explosion01.uasset"
+[2017.11.18-10.15.51:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Explosion02.uasset"
+[2017.11.18-10.15.51:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2017.11.18-10.15.51:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Fire01.uasset"
+[2017.11.18-10.15.51:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2017.11.18-10.15.51:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2017.11.18-10.15.51:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.11.18-10.15.51:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Light01.uasset"
+[2017.11.18-10.15.51:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2017.11.18-10.15.51:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Light02.uasset"
+[2017.11.18-10.15.51:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2017.11.18-10.15.51:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Smoke01.uasset"
+[2017.11.18-10.15.51:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2017.11.18-10.15.51:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.11.18-10.15.52:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2017.11.18-10.15.52:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2017.11.18-10.15.52:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.11.18-10.15.52:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2017.11.18-10.15.52:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2017.11.18-10.15.52:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Steam01.uasset"
+[2017.11.18-10.15.52:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2017.11.18-10.15.52:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.11.18-10.15.52:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.11.18-10.15.52:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.11.18-10.15.52:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.11.18-10.15.52:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.11.18-10.15.52:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2017.11.18-10.15.52:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.11.18-10.15.52:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2017.11.18-10.15.52:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2017.11.18-10.15.52:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2017.11.18-10.15.52:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2017.11.18-10.15.52:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2017.11.18-10.15.52:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2017.11.18-10.15.52:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2017.11.18-10.15.52:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2017.11.18-10.15.52:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2017.11.18-10.15.52:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2017.11.18-10.15.52:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2017.11.18-10.15.52:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2017.11.18-10.15.52:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Maps/Minimal_Default.umap"
+[2017.11.18-10.15.53:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2017.11.18-10.15.53:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Maps/StarterMap.umap"
+[2017.11.18-10.15.53:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2017.11.18-10.15.53:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2017.11.18-10.15.53:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2017.11.18-10.15.53:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2017.11.18-10.15.53:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.11.18-10.15.53:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.11.18-10.15.53:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.11.18-10.15.53:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.11.18-10.15.53:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.11.18-10.15.53:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.11.18-10.15.53:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.11.18-10.15.53:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.11.18-10.15.53:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.11.18-10.15.53:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2017.11.18-10.15.53:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.11.18-10.15.53:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.11.18-10.15.53:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.11.18-10.15.53:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.11.18-10.15.53:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Glass.uasset"
+[2017.11.18-10.15.53:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2017.11.18-10.15.53:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.11.18-10.15.53:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2017.11.18-10.15.53:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.11.18-10.15.53:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.11.18-10.15.53:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.11.18-10.15.53:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2017.11.18-10.15.53:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2017.11.18-10.15.53:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2017.11.18-10.15.53:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2017.11.18-10.15.53:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.11.18-10.15.53:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.11.18-10.15.53:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.11.18-10.15.53:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2017.11.18-10.15.53:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.11.18-10.15.53:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.11.18-10.15.53:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.11.18-10.15.53:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2017.11.18-10.15.53:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2017.11.18-10.15.53:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2017.11.18-10.15.53:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.11.18-10.15.53:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.11.18-10.15.53:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2017.11.18-10.15.53:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2017.11.18-10.15.53:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.11.18-10.15.53:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.11.18-10.15.53:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/P_Explosion.uasset"
+[2017.11.18-10.15.53:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/P_Fire.uasset"
+[2017.11.18-10.15.53:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/P_Smoke.uasset"
+[2017.11.18-10.15.53:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/P_Sparks.uasset"
+[2017.11.18-10.15.53:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2017.11.18-10.15.53:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2017.11.18-10.15.53:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.11.18-10.15.53:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.11.18-10.15.53:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.11.18-10.15.53:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.11.18-10.15.53:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2017.11.18-10.15.53:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.11.18-10.15.53:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.11.18-10.15.53:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.11.18-10.15.53:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2017.11.18-10.15.53:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/MaterialSphere.uasset"
+[2017.11.18-10.15.53:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_Bush.uasset"
+[2017.11.18-10.15.53:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_Chair.uasset"
+[2017.11.18-10.15.53:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2017.11.18-10.15.53:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_Couch.uasset"
+[2017.11.18-10.15.53:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_Door.uasset"
+[2017.11.18-10.15.53:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2017.11.18-10.15.53:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2017.11.18-10.15.53:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.11.18-10.15.53:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.11.18-10.15.53:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.11.18-10.15.53:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2017.11.18-10.15.53:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2017.11.18-10.15.53:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_Rock.uasset"
+[2017.11.18-10.15.53:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_Shelf.uasset"
+[2017.11.18-10.15.53:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_Stairs.uasset"
+[2017.11.18-10.15.53:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_Statue.uasset"
+[2017.11.18-10.15.53:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_TableRound.uasset"
+[2017.11.18-10.15.53:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2017.11.18-10.15.53:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2017.11.18-10.15.53:977][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2017.11.18-10.15.53:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2017.11.18-10.15.53:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2017.11.18-10.15.53:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2017.11.18-10.15.54:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.11.18-10.15.54:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.11.18-10.15.54:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2017.11.18-10.15.54:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2017.11.18-10.15.54:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2017.11.18-10.15.54:048][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.11.18-10.15.54:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2017.11.18-10.15.54:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2017.11.18-10.15.54:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2017.11.18-10.15.54:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.11.18-10.15.54:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.11.18-10.15.54:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2017.11.18-10.15.54:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.11.18-10.15.54:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.11.18-10.15.54:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2017.11.18-10.15.54:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.11.18-10.15.54:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2017.11.18-10.15.54:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2017.11.18-10.15.54:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2017.11.18-10.15.54:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.11.18-10.15.54:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.11.18-10.15.54:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.11.18-10.15.54:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2017.11.18-10.15.54:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.11.18-10.15.54:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.11.18-10.15.54:237][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.11.18-10.15.54:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.11.18-10.15.54:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.11.18-10.15.54:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.11.18-10.15.54:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.11.18-10.15.54:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.11.18-10.15.54:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.11.18-10.15.54:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.11.18-10.15.54:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.11.18-10.15.54:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.11.18-10.15.55:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.11.18-10.15.55:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.11.18-10.15.55:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.11.18-10.15.55:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.11.18-10.15.55:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2017.11.18-10.15.55:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2017.11.18-10.15.55:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2017.11.18-10.15.55:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.11.18-10.15.55:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.11.18-10.15.55:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2017.11.18-10.15.55:514][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2017.11.18-10.15.55:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.11.18-10.15.55:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.11.18-10.15.55:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.11.18-10.15.55:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.11.18-10.15.55:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.11.18-10.15.55:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.11.18-10.15.55:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.11.18-10.15.55:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.11.18-10.15.55:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.11.18-10.15.56:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.11.18-10.15.56:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.11.18-10.15.56:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.11.18-10.15.56:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.11.18-10.15.56:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.11.18-10.15.56:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.11.18-10.15.56:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.11.18-10.15.57:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.11.18-10.15.57:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.11.18-10.15.57:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.11.18-10.15.57:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Door_M.uasset"
+[2017.11.18-10.15.57:235][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Door_N.uasset"
+[2017.11.18-10.15.57:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.11.18-10.15.57:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.11.18-10.15.57:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.11.18-10.15.57:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.11.18-10.15.57:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2017.11.18-10.15.57:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2017.11.18-10.15.57:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2017.11.18-10.15.57:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.11.18-10.15.57:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.11.18-10.15.57:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.11.18-10.15.57:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.11.18-10.15.57:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.11.18-10.15.57:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.11.18-10.15.58:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2017.11.18-10.15.58:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2017.11.18-10.15.58:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2017.11.18-10.15.58:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.11.18-10.15.58:539][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.11.18-10.15.58:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.11.18-10.15.58:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.11.18-10.15.58:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.11.18-10.15.58:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.11.18-10.15.58:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.11.18-10.15.58:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.11.18-10.15.59:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.11.18-10.15.59:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2017.11.18-10.15.59:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2017.11.18-10.15.59:434][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.11.18-10.15.59:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.11.18-10.15.59:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.11.18-10.15.59:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.11.18-10.15.59:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.11.18-10.16.00:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.11.18-10.16.00:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.11.18-10.16.00:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.11.18-10.16.00:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2017.11.18-10.16.00:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2017.11.18-10.16.00:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.11.18-10.16.00:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.11.18-10.16.00:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.11.18-10.16.00:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2017.11.18-10.16.00:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2017.11.18-10.16.00:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2017.11.18-10.16.00:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2017.11.18-10.16.00:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2017.11.18-10.16.00:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.11.18-10.16.00:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.11.18-10.16.00:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.11.18-10.16.00:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.11.18-10.16.00:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.11.18-10.16.00:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.11.18-10.16.00:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Water_M.uasset"
+[2017.11.18-10.16.00:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Water_N.uasset"
+[2017.11.18-10.16.01:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.11.18-10.16.01:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.11.18-10.16.01:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.11.18-10.16.01:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.11.18-10.16.01:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.11.18-10.16.01:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.11.18-10.16.01:649][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.11.18-10.16.01:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.11.18-10.16.01:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.11.18-10.16.01:764][  0]LogMaterial: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2017.11.18-10.16.01:960][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2017.11.18-10.16.02:223][  0]LogStaticMesh: Built static mesh [0.26s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2017.11.18-10.16.02:700][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2017.11.18-10.16.02:836][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2017.11.18-10.16.02:871][  0]LogSavePackage: Save=28.91ms
+[2017.11.18-10.16.02:871][  0]LogSavePackage: Moving '../../../../Unreal Projects/Invading_Kingdoms/Saved/Floor_400x4004888519F4ABE9F49C80159A4AB4E0021.tmp' to '../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2017.11.18-10.16.02:876][  0]LogSavePackage: Display: Finished SavePackage ../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2017.11.18-10.16.02:876][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2017.11.18-10.16.02:880][  0]Cmd: MAP LOAD FILE="../../../../Unreal Projects/Invading_Kingdoms/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.18-10.16.02:880][  0]LightingResults: New page: Lighting Build
+[2017.11.18-10.16.02:904][  0]MapCheck: New page: Map Check
+[2017.11.18-10.16.02:904][  0]LightingResults: New page: Lighting Build
+[2017.11.18-10.16.03:727][  0]LogMaterial: Missing cached shader map for material M_TableRound, compiling. 
+[2017.11.18-10.16.03:747][  0]LogMaterial: Missing cached shader map for material M_Statue, compiling. 
+[2017.11.18-10.16.03:782][  0]LogMaterial: Missing cached shader map for material M_StatueGlass, compiling. 
+[2017.11.18-10.16.03:849][  0]LogMaterial: Missing cached shader map for material M_Chair, compiling. 
+[2017.11.18-10.16.03:916][  0]LogMaterial: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2017.11.18-10.16.03:950][  0]LogMaterial: Missing cached shader map for material M_Metal_Brushed_Nickel, compiling. 
+[2017.11.18-10.16.03:986][  0]LogMaterial: Missing cached shader map for material M_Metal_Burnished_Steel, compiling. 
+[2017.11.18-10.16.04:044][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.11.18-10.16.04:076][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.18-10.16.04:086][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.18-10.16.04:125][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 39.457ms to complete.
+[2017.11.18-10.16.04:125][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.245
+[2017.11.18-10.16.04:204][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.18-10.16.04:972][  0]LogCollectionManager: Loaded 0 collections in 0.000955 seconds
+[2017.11.18-10.16.05:080][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Invading_Kingdoms/Saved/Collections/' took 0.01s
+[2017.11.18-10.16.05:080][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Invading_Kingdoms/Content/Developers/linth/Collections/' took 0.01s
+[2017.11.18-10.16.05:080][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Projects/Invading_Kingdoms/Content/Collections/' took 0.01s
+[2017.11.18-10.16.05:080][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.18-10.16.05:090][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2363 classes and 519 folders.
+[2017.11.18-10.16.05:163][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.11.18-10.16.05:833][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.11.18-10.16.06:483][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.18-10.16.06:749][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.18-10.16.06:755][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.18-10.16.06:791][  0]LogSlate: Took 0.011532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.18-10.16.07:014][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2017.11.18-10.16.07:045][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.11.18-10.16.07:170][  0]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.18-10.16.08:092][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.11.18-10.16.08:092][  0]LogLoad: (Engine Initialization) Total time: 26.20 seconds
+[2017.11.18-10.16.08:092][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.18-10.16.08:092][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.18-10.16.08:134][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.18-10.16.08:200][  1]LogAssetRegistry: Asset discovery search completed in 21.6824 seconds
+[2017.11.18-10.16.08:203][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.18-10.16.08:203][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000063 seconds (updated 0 objects)
+[2017.11.18-10.16.57:450][304]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2017.11.18-10.16.57:490][304]LogEditorActor: Deleted 1 Actors (0.085 secs)
+[2017.11.18-10.17.02:778][937]Cmd: TRANSACTION UNDO
+[2017.11.18-10.17.02:778][937]LogEditorTransaction: Undo Delete selection
+[2017.11.18-10.17.02:798][937]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.18-10.17.11:261][811]Cmd: DELETE
+[2017.11.18-10.17.11:261][811]Cmd: ACTOR DELETE
+[2017.11.18-10.17.11:306][811]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2017.11.18-10.17.11:313][811]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2017.11.18-10.17.13:823][112]Cmd: TRANSACTION UNDO
+[2017.11.18-10.17.13:823][112]LogEditorTransaction: Undo Delete Actors
+[2017.11.18-10.17.15:828][265]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2017.11.18-10.17.22:822][ 50]Cmd: DELETE
+[2017.11.18-10.17.22:822][ 50]Cmd: ACTOR DELETE
+[2017.11.18-10.17.22:823][ 50]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2017.11.18-10.17.22:829][ 50]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.11.18-10.17.23:313][108]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture10)
+[2017.11.18-10.17.23:487][126]Cmd: DELETE
+[2017.11.18-10.17.23:487][126]Cmd: ACTOR DELETE
+[2017.11.18-10.17.23:488][126]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2017.11.18-10.17.23:495][126]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2017.11.18-10.17.27:543][610]Cmd: TRANSACTION UNDO
+[2017.11.18-10.17.27:543][610]LogEditorTransaction: Undo Delete Actors
+[2017.11.18-10.17.27:907][643]Cmd: TRANSACTION UNDO
+[2017.11.18-10.17.27:907][643]LogEditorTransaction: Undo Clicking on Actors
+[2017.11.18-10.17.32:132][ 12]Cmd: TRANSACTION UNDO
+[2017.11.18-10.17.32:132][ 12]LogEditorTransaction: Undo Delete Actors
+[2017.11.18-10.17.34:679][193]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.18-10.17.37:108][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2017.11.18-10.17.38:483][565]Cmd: DELETE
+[2017.11.18-10.17.38:483][565]Cmd: ACTOR DELETE
+[2017.11.18-10.17.38:484][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.18-10.17.38:490][565]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.11.18-10.17.39:006][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2017.11.18-10.17.39:247][652]Cmd: DELETE
+[2017.11.18-10.17.39:247][652]Cmd: ACTOR DELETE
+[2017.11.18-10.17.39:248][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.18-10.17.39:254][652]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.11.18-10.17.39:738][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2017.11.18-10.17.39:968][734]Cmd: DELETE
+[2017.11.18-10.17.39:968][734]Cmd: ACTOR DELETE
+[2017.11.18-10.17.39:969][734]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.18-10.17.39:976][734]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2017.11.18-10.17.40:410][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2017.11.18-10.17.40:706][818]Cmd: DELETE
+[2017.11.18-10.17.40:706][818]Cmd: ACTOR DELETE
+[2017.11.18-10.17.40:707][818]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.18-10.17.40:713][818]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.11.18-10.17.41:539][917]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2017.11.18-10.17.41:854][952]Cmd: DELETE
+[2017.11.18-10.17.41:854][952]Cmd: ACTOR DELETE
+[2017.11.18-10.17.41:855][952]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2017.11.18-10.17.41:862][952]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.11.18-10.17.42:254][999]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2017.11.18-10.17.42:521][ 28]Cmd: DELETE
+[2017.11.18-10.17.42:521][ 28]Cmd: ACTOR DELETE
+[2017.11.18-10.17.42:522][ 28]LogEditorActor: Deleted Actor: SkyLight
+[2017.11.18-10.17.42:528][ 28]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.11.18-10.17.44:008][206]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture10)
+[2017.11.18-10.17.44:197][226]Cmd: DELETE
+[2017.11.18-10.17.44:197][226]Cmd: ACTOR DELETE
+[2017.11.18-10.17.44:198][226]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2017.11.18-10.17.44:204][226]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.11.18-10.17.44:931][313]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (Starter_Background_Cue)
+[2017.11.18-10.17.45:474][368]Cmd: DELETE
+[2017.11.18-10.17.45:474][368]Cmd: ACTOR DELETE
+[2017.11.18-10.17.45:475][368]LogEditorActor: Deleted Actor: AmbientSound
+[2017.11.18-10.17.45:481][368]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.11.18-10.17.50:730][965]MapCheck: New page: Map Check
+[2017.11.18-10.17.50:925][965]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.18-10.17.50:925][965]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.18-10.17.51:031][965]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.11.18-10.17.51:038][965]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Brushed_Nickel, compiling. 
+[2017.11.18-10.17.51:043][965]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Copper, compiling. 
+[2017.11.18-10.17.51:046][965]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_1, compiling. 
+[2017.11.18-10.17.51:406][965]TextureStreamingBuild: Display: Compiling optional shaders took 0.391 seconds.
+[2017.11.18-10.17.51:426][965]LogLevel: Display: Export Material TexCoord Scales took 0.020 seconds.
+[2017.11.18-10.17.51:429][965]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2017.11.18-10.17.51:458][965]LightingResults: New page: Lighting Build - 18 Nov 2017 10:17:51
+[2017.11.18-10.17.51:571][965]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.18-10.17.51:654][965]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.18-10.17.51:801][965]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.18-10.17.52:901][965]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.18-10.17.52:902][965]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9020
+[2017.11.18-10.17.55:343][965]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.18-10.17.55:343][965]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.18-10.17.55:343][965]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.18-10.17.55:343][965]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.18-10.17.55:343][965]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.18-10.17.55:343][965]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.18-10.17.55:490][965]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.18-10.17.55:490][965]MapCheck: New page: Minimal_Default - 18 Nov 2017 10:17:55
+[2017.11.18-10.17.55:536][965]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 46.017ms to complete.
+[2017.11.18-10.17.55:558][965]LogEditorBuildUtils: Build time 0:04
+[2017.11.18-10.17.55:565][965]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2017.11.18-10.17.55:570][965]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2017.11.18-10.17.55:574][965]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2017.11.18-10.17.55:579][965]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Copper, compiling. 
+[2017.11.18-10.17.55:613][966]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2017.11.18-10.17.55:618][966]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_1, compiling. 
+[2017.11.18-10.17.55:654][967]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.18-10.17.55:663][967]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2017.11.18-10.17.59:088][981]Job is a success!
+[2017.11.18-10.17.59:132][982]LogSlate: Took 0.000108 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.18-10.17.59:202][982]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2017.11.18-10.17.59:202][982]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.18-10.17.59:202][982]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2017.11.18-10.17.59:202][982]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.18-10.17.59:202][982]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2017.11.18-10.17.59:202][982]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2017.11.18-10.17.59:202][982]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2017.11.18-10.17.59:280][982]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.11.18-10.17.59:280][982]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.11.18-10.17.59:280][982]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.11.18-10.17.59:280][982]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.11.18-10.17.59:280][982]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2017.11.18-10.17.59:280][982]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X128)
+[2017.11.18-10.17.59:354][982]Lightmass on DESKTOP-EJGDGA4: 1.45 sec total, 286 ms importing, 14 ms setup, 375 ms photons, 492 ms processing, 0 ms extra exporting [3/3 mappings]. Threads: 3.29 sec total, 167 ms processing.
+[2017.11.18-10.17.59:426][982]LogStaticLightingSystem: Illumination: 7.93 sec (30 ms encoding lightmaps, 9 ms encoding shadowmaps)
+[2017.11.18-10.17.59:426][982]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.18-10.17.59:426][982]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.11.18-10.18.04:332][982]DumpUnbuiltLightIteractions
+[2017.11.18-10.18.04:332][982]Lights with unbuilt interactions: 0
+[2017.11.18-10.18.04:332][982]
+[2017.11.18-10.18.04:332][982]Primitives with unbuilt interactions: 0
+[2017.11.18-10.18.04:355][983]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.18-10.18.04:355][983]MapCheck: New page: Minimal_Default - 18 Nov 2017 10:18:04
+[2017.11.18-10.18.04:387][983]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 31.467ms to complete.
+[2017.11.18-10.18.04:387][983]LogEditorViewport: Clicking on Actor (context menu): DirectionalLight (Light Source)
+[2017.11.18-10.18.05:543][ 67]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.18-10.18.06:425][170]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.18-10.18.12:502][885]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.18-10.18.12:545][885]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.11.18-10.18.12:557][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.18-10.18.12:557][885]PIE: New page: PIE session: Minimal_Default (18 Nov 2017 10:18:12)
+[2017.11.18-10.18.12:558][885]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.11.18-10.18.12:568][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010714s)
+[2017.11.18-10.18.12:569][885]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.11.18-10.18.12:569][885]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2017.11.18-10.18.12:569][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011571s)
+[2017.11.18-10.18.12:585][885]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2017.11.18-10.18.12:590][885]LogInit: FAudioDevice initialized.
+[2017.11.18-10.18.12:640][885]LogLoad: Game class is 'GameModeBase'
+[2017.11.18-10.18.12:658][885]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.11.18-10.18.12
+[2017.11.18-10.18.12:658][885]LogWorld: Bringing up level for play took: 0.000645
+[2017.11.18-10.18.12:709][885]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2017.11.18-10.18.12:725][885]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.412
+[2017.11.18-10.18.12:725][885]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.11.18-10.18.20:962][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.11.18-10.18.20:992][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.11.18-10.18.46:053][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.18.46:929][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.18.50:538][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.18.51:251][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.19.04:066][393]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.19.14:416][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.19.17:431][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.19.21:198][810]Cmd: EDIT COPY
+[2017.11.18-10.19.21:443][839]Cmd: EDIT PASTE
+[2017.11.18-10.19.29:103][743]Cmd: EDIT PASTE
+[2017.11.18-10.19.34:863][417]Cmd: EDIT PASTE
+[2017.11.18-10.19.48:000][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.19.48:979][ 64]Cmd: EDIT COPY
+[2017.11.18-10.19.49:188][ 89]Cmd: EDIT PASTE
+[2017.11.18-10.19.54:141][679]Cmd: EDIT PASTE
+[2017.11.18-10.20.05:396][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.20.06:365][122]Cmd: EDIT COPY
+[2017.11.18-10.20.06:565][146]Cmd: EDIT PASTE
+[2017.11.18-10.20.11:602][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.11.18-10.20.12:659][852]Cmd: EDIT COPY
+[2017.11.18-10.20.12:934][885]Cmd: EDIT PASTE
+[2017.11.18-10.20.15:880][234]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.18-10.20.23:562][ 31]MapCheck: New page: Map Check
+[2017.11.18-10.20.23:576][ 31]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.18-10.20.23:576][ 31]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.18-10.20.23:592][ 31]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.11.18-10.20.23:597][ 31]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2017.11.18-10.20.23:600][ 31]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_2, compiling. 
+[2017.11.18-10.20.23:935][ 31]TextureStreamingBuild: Display: Compiling optional shaders took 0.347 seconds.
+[2017.11.18-10.20.23:936][ 31]LogLevel: Display: Export Material TexCoord Scales took 0.001 seconds.
+[2017.11.18-10.20.23:939][ 31]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2017.11.18-10.20.23:946][ 31]LightingResults: New page: Lighting Build - 18 Nov 2017 10:20:23
+[2017.11.18-10.20.23:950][ 31]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.18-10.20.23:951][ 31]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.18-10.20.23:951][ 31]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.18-10.20.23:952][ 31]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.18-10.20.23:952][ 31]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9020
+[2017.11.18-10.20.28:472][ 31]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.18-10.20.28:473][ 31]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.18-10.20.28:473][ 31]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.18-10.20.28:473][ 31]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.18-10.20.28:473][ 31]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.18-10.20.28:473][ 31]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.18-10.20.28:557][ 31]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.18-10.20.28:557][ 31]MapCheck: New page: Minimal_Default - 18 Nov 2017 10:20:28
+[2017.11.18-10.20.28:557][ 31]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.11.18-10.20.28:586][ 31]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 29.699ms to complete.
+[2017.11.18-10.20.28:609][ 31]LogEditorBuildUtils: Build time 0:05
+[2017.11.18-10.20.28:640][ 31]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2017.11.18-10.20.28:645][ 31]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer M_Basic_Floor, compiling. 
+[2017.11.18-10.20.30:615][114]Job is a success!
+[2017.11.18-10.20.30:683][115]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.004s
+[2017.11.18-10.20.30:683][115]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.18-10.20.30:683][115]LogVolumetricLightmapImport:      BrickData 55x5x5 = 0.0Mb
+[2017.11.18-10.20.30:683][115]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.18-10.20.30:683][115]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2017.11.18-10.20.30:683][115]LogVolumetricLightmapImport:          1: 9.1% covering 1.6% of volume
+[2017.11.18-10.20.30:683][115]LogVolumetricLightmapImport:          2: 81.8% covering 0.2% of volume
+[2017.11.18-10.20.30:842][115]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.11.18-10.20.30:842][115]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2017.11.18-10.20.30:842][115]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.11.18-10.20.30:843][115]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2017.11.18-10.20.30:843][115]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2017.11.18-10.20.30:843][115]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X256)
+[2017.11.18-10.20.30:879][115]Lightmass on DESKTOP-EJGDGA4: 1.29 sec total, 339 ms importing, 14 ms setup, 375 ms photons, 543 ms processing, 0 ms extra exporting [10/10 mappings]. Threads: 3.64 sec total, 931 ms processing.
+[2017.11.18-10.20.30:910][115]LogStaticLightingSystem: Illumination: 6.93 sec (91 ms encoding lightmaps, 48 ms encoding shadowmaps)
+[2017.11.18-10.20.30:910][115]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.18-10.20.30:910][115]LogStaticLightingSystem: Shadowmap texture memory: 0.3 MB (0.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.11.18-10.20.31:478][115]DumpUnbuiltLightIteractions
+[2017.11.18-10.20.31:478][115]Lights with unbuilt interactions: 0
+[2017.11.18-10.20.31:478][115]
+[2017.11.18-10.20.31:478][115]Primitives with unbuilt interactions: 0
+[2017.11.18-10.20.31:507][116]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.18-10.20.31:508][116]MapCheck: New page: Minimal_Default - 18 Nov 2017 10:20:31
+[2017.11.18-10.20.31:536][116]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 29.162ms to complete.
+[2017.11.18-10.20.36:782][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2017.11.18-10.20.37:263][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2017.11.18-10.20.37:762][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.20.38:343][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.11.18-10.20.38:866][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2017.11.18-10.20.39:398][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2017.11.18-10.20.39:996][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2017.11.18-10.20.40:544][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.20.40:934][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2017.11.18-10.20.41:548][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor3)
+[2017.11.18-10.20.42:904][157]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.18-10.20.45:743][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.20.47:392][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.20.53:867][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.20.54:415][495]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.18-10.21.16:962][133]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.11.18-10.21.19:851][377]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.18-10.21.19:867][377]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2017.11.18-10.21.20:982][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.18-10.21.20:987][505]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.11.18-10.21.21:950][584]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.18-10.21.21:958][584]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2017.11.18-10.21.22:861][690]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.18-10.21.22:867][690]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.11.18-10.21.23:866][808]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.18-10.21.23:872][808]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.11.18-10.21.24:863][925]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.18-10.21.24:869][925]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2017.11.18-10.21.25:760][ 30]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.18-10.21.25:766][ 30]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.11.18-10.21.26:597][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.18-10.21.26:603][128]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2017.11.18-10.21.28:234][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.21.29:780][473]MapCheck: New page: Map Check
+[2017.11.18-10.21.29:807][473]Cmd: MAP REBUILD ALLVISIBLE
+[2017.11.18-10.21.29:808][473]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2017.11.18-10.21.29:823][473]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2017.11.18-10.21.29:829][473]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Floor, compiling. 
+[2017.11.18-10.21.29:833][473]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2017.11.18-10.21.30:156][473]TextureStreamingBuild: Display: Compiling optional shaders took 0.337 seconds.
+[2017.11.18-10.21.30:159][473]LogLevel: Display: Export Material TexCoord Scales took 0.002 seconds.
+[2017.11.18-10.21.30:162][473]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2017.11.18-10.21.30:168][473]LightingResults: New page: Lighting Build - 18 Nov 2017 10:21:30
+[2017.11.18-10.21.30:172][473]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.11.18-10.21.30:173][473]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.11.18-10.21.30:173][473]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.11.18-10.21.30:174][473]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.11.18-10.21.30:174][473]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9020
+[2017.11.18-10.21.34:686][473]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.11.18-10.21.34:686][473]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.11.18-10.21.34:687][473]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.11.18-10.21.34:687][473]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.11.18-10.21.34:687][473]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.11.18-10.21.34:687][473]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.11.18-10.21.34:814][473]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2017.11.18-10.21.34:814][473]MapCheck: New page: Minimal_Default - 18 Nov 2017 10:21:34
+[2017.11.18-10.21.34:814][473]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2017.11.18-10.21.34:843][473]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 28.748ms to complete.
+[2017.11.18-10.21.34:866][473]LogEditorBuildUtils: Build time 0:05
+[2017.11.18-10.21.36:302][505]Job is a success!
+[2017.11.18-10.21.36:440][506]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.004s
+[2017.11.18-10.21.36:440][506]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2017.11.18-10.21.36:440][506]LogVolumetricLightmapImport:      BrickData 55x5x5 = 0.0Mb
+[2017.11.18-10.21.36:440][506]LogVolumetricLightmapImport:      Bricks at Level
+[2017.11.18-10.21.36:440][506]LogVolumetricLightmapImport:          0: 9.1% covering 100.0% of volume
+[2017.11.18-10.21.36:440][506]LogVolumetricLightmapImport:          1: 9.1% covering 1.6% of volume
+[2017.11.18-10.21.36:440][506]LogVolumetricLightmapImport:          2: 81.8% covering 0.2% of volume
+[2017.11.18-10.21.36:499][506]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.11.18-10.21.36:499][506]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.11.18-10.21.36:499][506]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.11.18-10.21.36:499][506]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.11.18-10.21.36:499][506]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 128X128)
+[2017.11.18-10.21.36:499][506]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2017.11.18-10.21.36:561][506]Lightmass on DESKTOP-EJGDGA4: 1.22 sec total, 325 ms importing, 12 ms setup, 376 ms photons, 487 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 3.24 sec total, 207 ms processing.
+[2017.11.18-10.21.36:619][506]LogStaticLightingSystem: Illumination: 6.38 sec (10 ms encoding lightmaps, 9 ms encoding shadowmaps)
+[2017.11.18-10.21.36:619][506]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.11.18-10.21.36:619][506]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.11.18-10.21.36:690][506]DumpUnbuiltLightIteractions
+[2017.11.18-10.21.36:690][506]Lights with unbuilt interactions: 0
+[2017.11.18-10.21.36:690][506]
+[2017.11.18-10.21.36:690][506]Primitives with unbuilt interactions: 0
+[2017.11.18-10.21.36:744][507]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.11.18-10.21.36:744][507]MapCheck: New page: Minimal_Default - 18 Nov 2017 10:21:36
+[2017.11.18-10.21.36:772][507]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 28.059ms to complete.
+[2017.11.18-10.21.42:214][780]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.18-10.21.48:643][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.26.27:258][764]LogSavePackage: Save=75.97ms
+[2017.11.18-10.26.27:258][764]LogSavePackage: Moving '../../../../Unreal Projects/Invading_Kingdoms/Saved/Minimal_Default_Auto140C81AB14E24B2CD7B2C78B8889F469B.tmp' to '../../../../Unreal Projects/Invading_Kingdoms/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2017.11.18-10.26.27:258][764]LogSavePackage: Display: Finished SavePackage ../../../../Unreal Projects/Invading_Kingdoms/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap
+[2017.11.18-10.26.27:275][764]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.165
+[2017.11.18-10.26.27:275][764]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.165
+[2017.11.18-10.26.27:289][764]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Maps/Minimal_Default_BuiltData] ([1] browsable assets)...
+[2017.11.18-10.26.27:290][764]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Maps/Minimal_Default_BuiltData]
+[2017.11.18-10.26.27:299][764]LogSavePackage: Save=4.93ms
+[2017.11.18-10.26.27:299][764]LogSavePackage: Moving '../../../../Unreal Projects/Invading_Kingdoms/Saved/Minimal_Default_BuiltData_Auto1655D8E204EBA10BDA45A59A0524F76C8.tmp' to '../../../../Unreal Projects/Invading_Kingdoms/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_BuiltData_Auto1.uasset'
+[2017.11.18-10.26.27:299][764]LogSavePackage: Display: Finished SavePackage ../../../../Unreal Projects/Invading_Kingdoms/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_BuiltData_Auto1.uasset
+[2017.11.18-10.26.27:299][764]LogFileHelpers: Auto-saving content packages took 0.010
+[2017.11.18-10.28.11:966][221]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.18-10.28.12:391][269]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.18-10.28.16:226][726]Cmd: POLY SELECT ADJACENT WALLS
+[2017.11.18-10.28.17:031][820]Cmd: POLY SELECT ADJACENT WALLS
+[2017.11.18-10.28.19:994][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.11.18-10.36.28:087][104]LogSavePackage: Save=54.57ms
+[2017.11.18-10.36.28:087][104]LogSavePackage: Moving '../../../../Unreal Projects/Invading_Kingdoms/Saved/Minimal_Default_Auto2CB51BBCA4B69BD951DC113B9AE534255.tmp' to '../../../../Unreal Projects/Invading_Kingdoms/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2017.11.18-10.36.28:088][104]LogSavePackage: Display: Finished SavePackage ../../../../Unreal Projects/Invading_Kingdoms/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap
+[2017.11.18-10.36.28:091][104]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.075
+[2017.11.18-10.36.28:091][104]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.075
+[2017.11.18-10.36.28:106][104]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character_First_Person] ([1] browsable assets)...
+[2017.11.18-10.36.28:106][104]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character_First_Person]
+[2017.11.18-10.36.28:119][104]LogSavePackage: Save=11.83ms
+[2017.11.18-10.36.28:119][104]LogSavePackage: Moving '../../../../Unreal Projects/Invading_Kingdoms/Saved/Character_First_Person_Auto2A388636B4F9206B46E3853A90FA44053.tmp' to '../../../../Unreal Projects/Invading_Kingdoms/Saved/Autosaves/Game/Blueprints/Character_First_Person_Auto2.uasset'
+[2017.11.18-10.36.28:119][104]LogSavePackage: Display: Finished SavePackage ../../../../Unreal Projects/Invading_Kingdoms/Saved/Autosaves/Game/Blueprints/Character_First_Person_Auto2.uasset
+[2017.11.18-10.36.28:119][104]LogFileHelpers: Auto-saving content packages took 0.014
+[2017.11.18-10.54.45:401][100]LogAIModule: Creating AISystem for world Test_Default
+[2017.11.18-10.54.45:405][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_Default" FILE="../../../../Unreal Projects/Invading_Kingdoms/Content/Maps/Test_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.18-10.54.45:471][100]LogSavePackage: Save=58.32ms
+[2017.11.18-10.54.45:471][100]LogSavePackage: Moving '../../../../Unreal Projects/Invading_Kingdoms/Saved/Test_DefaultCA5A9711431FCCCE6A6C18A63CECD189.tmp' to '../../../../Unreal Projects/Invading_Kingdoms/Content/Maps/Test_Default.umap'
+[2017.11.18-10.54.45:473][100]LogSavePackage: Display: Finished SavePackage ../../../../Unreal Projects/Invading_Kingdoms/Content/Maps/Test_Default.umap
+[2017.11.18-10.54.45:477][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_Default_BuiltData" FILE="../../../../Unreal Projects/Invading_Kingdoms/Content/Maps/Test_Default_BuiltData.uasset" SILENT=true
+[2017.11.18-10.54.45:488][100]LogSavePackage: Save=9.29ms
+[2017.11.18-10.54.45:488][100]LogSavePackage: Moving '../../../../Unreal Projects/Invading_Kingdoms/Saved/Test_Default_BuiltDataBF02A7FE4E28836DF7EB87AEAB48E52F.tmp' to '../../../../Unreal Projects/Invading_Kingdoms/Content/Maps/Test_Default_BuiltData.uasset'
+[2017.11.18-10.54.45:489][100]LogSavePackage: Display: Finished SavePackage ../../../../Unreal Projects/Invading_Kingdoms/Content/Maps/Test_Default_BuiltData.uasset
+[2017.11.18-10.54.45:491][100]LogFileHelpers: Saving map 'Test_Default' took 0.267
+[2017.11.18-10.54.45:492][100]Cmd: MAP LOAD FILE="../../../../Unreal Projects/Invading_Kingdoms/Content/Maps/Test_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.18-10.54.45:507][100]LightingResults: New page: Lighting Build
+[2017.11.18-10.54.45:508][100]LoadErrors: New page: Loading map: Test_Default.umap
+[2017.11.18-10.54.45:509][100]MapCheck: New page: Map Check
+[2017.11.18-10.54.45:509][100]LightingResults: New page: Lighting Build
+[2017.11.18-10.54.45:519][100]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.18-10.54.45:543][100]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.18-10.54.45:577][100]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 33.88ms to complete.
+[2017.11.18-10.54.45:577][100]LogFileHelpers: Loading map 'Test_Default' took 0.085
+[2017.11.18-10.54.51:261][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character_First_Person" FILE="../../../../Unreal Projects/Invading_Kingdoms/Content/Blueprints/Character_First_Person.uasset" SILENT=true
+[2017.11.18-10.54.51:275][751]LogSavePackage: Save=12.48ms
+[2017.11.18-10.54.51:275][751]LogSavePackage: Moving '../../../../Unreal Projects/Invading_Kingdoms/Saved/Character_First_PersonBA1C17874E15DAB1EEA1BEA57519B630.tmp' to '../../../../Unreal Projects/Invading_Kingdoms/Content/Blueprints/Character_First_Person.uasset'
+[2017.11.18-10.54.51:278][751]LogSavePackage: Display: Finished SavePackage ../../../../Unreal Projects/Invading_Kingdoms/Content/Blueprints/Character_First_Person.uasset
+[2017.11.18-10.54.53:206][944]Cmd: QUIT_EDITOR
+[2017.11.18-10.54.53:904][944]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.18-10.54.53:915][944]LogExit: Preparing to exit.
+[2017.11.18-10.54.54:276][944]LogDirectoryWatcher: A directory notification for 'E:/Unreal Projects/Invading_Kingdoms/Content/' was aborted.
+[2017.11.18-10.54.54:298][944]LogExit: Editor shut down
+[2017.11.18-10.54.54:300][944]LogExit: Transaction tracking system shut down
+[2017.11.18-10.54.54:485][944]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.18-10.54.54:486][944]LogDirectoryWatcher: A directory notification for '../../../../Unreal Projects/Invading_Kingdoms/Content/' was aborted.
+[2017.11.18-10.54.54:486][944]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.18-10.54.54:486][944]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.11.18-10.54.54:486][944]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.11.18-10.54.54:486][944]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.18-10.54.54:486][944]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.18-10.54.54:534][944]LogExit: Object subsystem successfully closed.
+[2017.11.18-10.54.54:567][944]LogD3D11RHI: Shutdown
+[2017.11.18-10.54.54:567][944]LogD3D11RHI: CleanupD3DDevice
+[2017.11.18-10.54.54:568][944]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.18-10.54.54:576][944]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (552)
+[2017.11.18-10.54.54:576][944]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (550)
+[2017.11.18-10.54.54:576][944]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.11.18-10.54.54:576][944]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.11.18-10.54.54:576][944]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.11.18-10.54.54:576][944]LogDirectoryWatcher: A directory notification for 'E:/UE_4.18/FeaturePacks/' was aborted.
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.11.18-10.54.54:577][944]LogDirectoryWatcher: A directory notification for 'E:/Unreal Projects/Invading_Kingdoms/Content/Collections/' was aborted.
+[2017.11.18-10.54.54:577][944]LogDirectoryWatcher: A directory notification for 'E:/Unreal Projects/Invading_Kingdoms/Content/Developers/linth/Collections/' was aborted.
+[2017.11.18-10.54.54:577][944]LogDirectoryWatcher: A directory notification for 'E:/Unreal Projects/Invading_Kingdoms/Saved/Collections/' was aborted.
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.11.18-10.54.54:577][944]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.11.18-10.54.54:578][944]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.11.18-10.54.55:576][944]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.11.18-10.54.55:629][944]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.11.18-10.54.55:629][944]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.11.18-10.54.55:629][944]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.11.18-10.54.55:629][944]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.11.18-10.54.55:629][944]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.11.18-10.54.55:629][944]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.11.18-10.54.55:629][944]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.11.18-10.54.55:629][944]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.11.18-10.54.55:629][944]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.11.18-10.54.55:629][944]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.11.18-10.54.55:629][944]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.11.18-10.54.55:630][944]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.11.18-10.54.55:630][944]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.11.18-10.54.55:630][944]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.11.18-10.54.55:630][944]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.11.18-10.54.55:630][944]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.11.18-10.54.55:630][944]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.11.18-10.54.55:630][944]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.11.18-10.54.55:630][944]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.11.18-10.54.55:630][944]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.11.18-10.54.55:630][944]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.11.18-10.54.55:630][944]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.11.18-10.54.55:630][944]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.11.18-10.54.55:631][944]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.11.18-10.54.55:631][944]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.11.18-10.54.55:631][944]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.11.18-10.54.55:631][944]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.11.18-10.54.55:631][944]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.11.18-10.54.55:631][944]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.11.18-10.54.55:631][944]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.11.18-10.54.55:747][944]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.11.18-10.54.55:748][944]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.11.18-10.54.55:749][944]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.11.18-10.54.55:749][944]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.11.18-10.54.55:749][944]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.11.18-10.54.55:749][944]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.11.18-10.54.55:749][944]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.11.18-10.54.55:749][944]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.11.18-10.54.55:749][944]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.11.18-10.54.55:749][944]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.11.18-10.54.55:849][944]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.11.18-10.54.55:950][944]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.11.18-10.54.55:950][944]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.11.18-10.54.55:950][944]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.11.18-10.54.55:950][944]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.11.18-10.54.55:950][944]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.11.18-10.54.55:950][944]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.11.18-10.54.55:951][944]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.11.18-10.54.55:951][944]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.11.18-10.54.55:951][944]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.11.18-10.54.55:951][944]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.11.18-10.54.55:951][944]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.11.18-10.54.55:951][944]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.11.18-10.54.55:951][944]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.11.18-10.54.55:951][944]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.11.18-10.54.55:951][944]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.11.18-10.54.55:951][944]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.11.18-10.54.55:957][944]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.11.18-10.54.56:052][944]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.11.18-10.54.56:150][944]LogDerivedDataCache: Shutdown
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.18-10.54.56:151][944]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.18-10.54.56:151][944]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.18-10.54.56:151][944]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DABA544-4FA5-6AD0-727B-ACB61C2D0396%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=1a28396b463c27444807308e3575a8e5%7Cab8f2872f485418395e851d5a48bdfa7%7C218b4992-7ef9-4a62-80be-deca14572107&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.18-10.54.56:162][944]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.18-10.54.56:162][944]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.18-10.54.56:162][944]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.18-10.54.56:163][944]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.18-10.54.56:165][944]LogExit: Exiting.
+[2017.11.18-10.54.56:173][944]Log file closed, 11/18/17 10:54:56
